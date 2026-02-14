@@ -1,0 +1,20 @@
+Name: cam01
+Model: type01
+IP: 192.168.xxx.xxx
+Status: Offline
+-------------
+Name: cam02
+Model: type02
+IP: 192.168.xxx.xxz
+Status: Offline
+-------------
+Name: cam03
+Model: type03
+IP: 192.168.xxx.xyz
+Status: Online
+-------------
+Name: cam04
+Model: type04
+IP: 192.168.xxx.xya
+Status: Online
+-------------
