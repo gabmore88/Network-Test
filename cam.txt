@@ -1,0 +1,9 @@
+Nome | 	Modelo	|  IP 
+
+cam01 | type01 | 192.168.xxx.xxx
+cam02 | type02 | 192.168.xxx.xxz
+cam03 | type03 | 192.168.xxx.xyz
+cam04 | type04 | 192.168.xxx.xya
+
+
+
